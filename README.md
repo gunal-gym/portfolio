@@ -103,7 +103,7 @@ A clean and responsive portfolio website for showcasing web development services
 </section>
 
 <footer>
-    <p>© 2026 Gunal | All Rights Reserved</p>
+    <p>© 2026 Gunal | Build with passion 🖥️</p>
 </footer>
 
 </body>
